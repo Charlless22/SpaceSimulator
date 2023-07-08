@@ -1,2 +1,2 @@
 # SpaceSimulator
-The goal of this project is to create a space simulator where you can move the planets in the solar system and see what will happen then you will be able to create black hole and things like that...
+the goal of this project is to create a solar system simulation where the planets are in orbit around the sun there can be random event like black hole that can appear to deform the solar system.
